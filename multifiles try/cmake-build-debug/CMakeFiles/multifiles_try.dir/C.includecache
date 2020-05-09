@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/csapp/multifiles try/print.c
+stdio.h
+-
+print.h
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/csapp/multifiles try/print.h
+
+C:/Users/mathskiller/Desktop/20181003kaishiyong epan xuexi/csapp/multifiles try/print.h
+stdio.h
+-
+

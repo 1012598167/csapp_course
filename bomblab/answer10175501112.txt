@@ -1,0 +1,7 @@
+Houses will begat jobs, jobs will begat houses.
+1 2 4 8 16 32
+0 x 278
+11 18 DrEvil
+mfcdhg
+3 4 5 2 1 6
+47
